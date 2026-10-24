@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "lastUpdated": "2026-10-24T15:00:00Z",
+  "cdnBaseUrl": "https://raw.githubusercontent.com/slideflow-studio/templates-cdn/main/",
+  "categories": [
+    {
+      "id": "minimalist",
+      "name": "Minimalist Clean",
+      "icon": "crop_square",
+      "sortOrder": 1
+    },
+    {
+      "id": "polaroid",
+      "name": "Polaroid & Film",
+      "icon": "photo_camera",
+      "sortOrder": 2
+    },
+    {
+      "id": "editorial",
+      "name": "Editorial & Magazine",
+      "icon": "auto_stories",
+      "sortOrder": 3
+    },
+    {
+      "id": "travel",
+      "name": "Panoramic Travel",
+      "icon": "landscape",
+      "sortOrder": 4
+    },
+    {
+      "id": "vintage",
+      "name": "Vintage Scrapbook",
+      "icon": "content_cut",
+      "sortOrder": 5
+    }
+  ],
+  "templates": [
+    {
+      "id": "template_minimalist_duo",
+      "title": "Nordic Minimalist Spread",
+      "categoryId": "minimalist",
+      "slideCount": 3,
+      "aspectRatio": "PORTRAIT_4_5",
+      "thumbnailRelativeUrl": "assets/thumbnails/thumb_nordic_minimalist.jpg",
+      "templateJsonRelativeUrl": "templates/template_minimalist_duo.json",
+      "tags": ["clean", "white", "typography", "seamless", "architecture"],
+      "isNew": true,
+      "isTrending": true
+    },
+    {
+      "id": "template_polaroid_journey",
+      "title": "Retro Polaroid Seam-Crosser",
+      "categoryId": "polaroid",
+      "slideCount": 3,
+      "aspectRatio": "PORTRAIT_4_5",
+      "thumbnailRelativeUrl": "assets/thumbnails/thumb_polaroid_journey.jpg",
+      "templateJsonRelativeUrl": "templates/template_polaroid_journey.json",
+      "tags": ["polaroid", "film", "analog", "tape", "aesthetic"],
+      "isNew": true,
+      "isTrending": true
+    },
+    {
+      "id": "template_editorial_street",
+      "title": "Vogue Editorial Panorama",
+      "categoryId": "editorial",
+      "slideCount": 4,
+      "aspectRatio": "PORTRAIT_4_5",
+      "thumbnailRelativeUrl": "assets/thumbnails/thumb_editorial_street.jpg",
+      "templateJsonRelativeUrl": "templates/template_editorial_street.json",
+      "tags": ["fashion", "bold", "editorial", "headline", "black"],
+      "isNew": false,
+      "isTrending": true
+    }
+  ]
+}
