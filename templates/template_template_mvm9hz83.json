@@ -1,0 +1,46 @@
+{
+  "id": "template_mvm9hz83",
+  "schemaVersion": 1,
+  "title": "Seam Crosser Panorama",
+  "categoryId": "minimalist",
+  "slideCount": 3,
+  "aspectRatio": "PORTRAIT_4_5",
+  "defaultBackgroundColor": 4279374356,
+  "backgroundTextureUrl": null,
+  "layers": [
+    {
+      "id": "layer_crossing_1",
+      "type": "IMAGE_PLACEHOLDER",
+      "x": 280,
+      "y": 100,
+      "width": 320,
+      "height": 380,
+      "rotation": -2,
+      "scale": 1,
+      "zIndex": 1,
+      "opacity": 1,
+      "cornerRadius": 12,
+      "shadowRadius": 16,
+      "isLocked": false,
+      "isVisible": true
+    },
+    {
+      "id": "layer_text_title",
+      "type": "TEXT",
+      "x": 40,
+      "y": 80,
+      "width": 240,
+      "height": 60,
+      "rotation": 0,
+      "scale": 1,
+      "zIndex": 2,
+      "opacity": 1,
+      "text": "PANORAMIC\nJOURNEY",
+      "textColor": 4294967295,
+      "fontSize": 26,
+      "isBold": true,
+      "isLocked": false,
+      "isVisible": true
+    }
+  ]
+}
