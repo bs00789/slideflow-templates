@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-24T15:00:00Z",
+  "lastUpdated": "2026-10-24T10:42:43.946Z",
   "cdnBaseUrl": "https://raw.githubusercontent.com/slideflow-studio/templates-cdn/main/",
   "categories": [
     {
@@ -43,7 +43,12 @@
       "aspectRatio": "PORTRAIT_4_5",
       "thumbnailRelativeUrl": "assets/thumbnails/thumb_nordic_minimalist.jpg",
       "templateJsonRelativeUrl": "templates/template_minimalist_duo.json",
-      "tags": ["clean", "white", "typography", "seamless", "architecture"],
+      "tags": [
+        "clean",
+        "white",
+        "typography",
+        "seamless"
+      ],
       "isNew": true,
       "isTrending": true
     },
@@ -55,21 +60,29 @@
       "aspectRatio": "PORTRAIT_4_5",
       "thumbnailRelativeUrl": "assets/thumbnails/thumb_polaroid_journey.jpg",
       "templateJsonRelativeUrl": "templates/template_polaroid_journey.json",
-      "tags": ["polaroid", "film", "analog", "tape", "aesthetic"],
+      "tags": [
+        "polaroid",
+        "film",
+        "analog",
+        "tape"
+      ],
       "isNew": true,
       "isTrending": true
     },
     {
-      "id": "template_editorial_street",
-      "title": "Vogue Editorial Panorama",
-      "categoryId": "editorial",
-      "slideCount": 4,
+      "id": "template_mvm9hz83",
+      "title": "Seam Crosser Panorama",
+      "categoryId": "minimalist",
+      "slideCount": 3,
       "aspectRatio": "PORTRAIT_4_5",
-      "thumbnailRelativeUrl": "assets/thumbnails/thumb_editorial_street.jpg",
-      "templateJsonRelativeUrl": "templates/template_editorial_street.json",
-      "tags": ["fashion", "bold", "editorial", "headline", "black"],
-      "isNew": false,
-      "isTrending": true
+      "thumbnailRelativeUrl": "assets/thumbnails/thumb_template_mvm9hz83.jpg",
+      "templateJsonRelativeUrl": "templates/template_template_mvm9hz83.json",
+      "tags": [
+        "panoramic",
+        "carousel"
+      ],
+      "isNew": true,
+      "isTrending": false
     }
   ]
 }
