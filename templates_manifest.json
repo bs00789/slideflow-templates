@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-24T11:08:07.748Z",
+  "lastUpdated": "2026-10-25T11:29:17.804Z",
   "cdnBaseUrl": "https://raw.githubusercontent.com/slideflow-studio/templates-cdn/main/",
   "categories": [
     {
@@ -92,6 +92,21 @@
       "aspectRatio": "PORTRAIT_4_5",
       "thumbnailRelativeUrl": "assets/thumbnails/thumb_template_mvmame3k.jpg",
       "templateJsonRelativeUrl": "templates/template_template_mvmame3k.json",
+      "tags": [
+        "panoramic",
+        "carousel"
+      ],
+      "isNew": true,
+      "isTrending": false
+    },
+    {
+      "id": "template_mvnqsviw",
+      "title": "Seam Crosser Panorama",
+      "categoryId": "editorial",
+      "slideCount": 2,
+      "aspectRatio": "PORTRAIT_4_5",
+      "thumbnailRelativeUrl": "assets/thumbnails/thumb_template_mvnqsviw.jpg",
+      "templateJsonRelativeUrl": "templates/template_template_mvnqsviw.json",
       "tags": [
         "panoramic",
         "carousel"
