@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-30T04:11:20.388Z",
+  "lastUpdated": "2026-11-05T05:25:44.104Z",
   "cdnBaseUrl": "https://raw.githubusercontent.com/slideflow-studio/templates-cdn/main/",
   "categories": [
     {
@@ -81,6 +81,26 @@
         "panoramic",
         "carousel"
       ],
+      "isNew": true,
+      "isTrending": false
+    },
+    {
+      "id": "template_mw33h6hs",
+      "title": "krushant",
+      "categoryId": "polaroid",
+      "slideCount": 4,
+      "aspectRatio": "PORTRAIT_4_5",
+      "thumbnailRelativeUrl": "https://cdn.jsdelivr.net/gh/bs00789/slideflow-templates@main/thumbnails/template_mw33h6hs_cover.webp",
+      "templateJsonRelativeUrl": "templates/template_template_mw33h6hs.json",
+      "tags": [
+        "kk",
+        "birthday"
+      ],
+      "isFeatured": false,
+      "publishAfter": null,
+      "coverThumbnailUrl": "https://cdn.jsdelivr.net/gh/bs00789/slideflow-templates@main/thumbnails/template_mw33h6hs_cover.webp",
+      "panoramicPreviewUrl": "https://cdn.jsdelivr.net/gh/bs00789/slideflow-templates@main/thumbnails/template_mw33h6hs_panoramic.webp",
+      "enableAutoPanPreview": true,
       "isNew": true,
       "isTrending": false
     }
